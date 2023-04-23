@@ -10,7 +10,7 @@ Orher programming languages sollutions:
 | ------------------------- |----------------------------------------------------------------|:---------------:|
 | *С*                       | https://github.com/HungryVovka/Codewars-C                      | 6 kyu           |
 | *С#*                      | https://github.com/HungryVovka/Codewars-C-sharp                | 6 kyu           |
-| *F#*                      | https://github.com/HungryVovka/Codewars-F-Sharp                | 6 kyu           |
+| *F#*                      | https://github.com/HungryVovka/Codewars-F-sharp                | 6 kyu           |
 | *JavaScript*              | https://github.com/HungryVovka/Codewars-JavaScript             | 3 kyu           |
 | *Python*                  | https://github.com/HungryVovka/Codewars-Python                 | 3 kyu           |
 | *SQL*                     | https://github.com/HungryVovka/Codewars-SQL                    | 5 kyu           |
@@ -30,11 +30,11 @@ is the personal property of Vladimir Rukavishnikov
 
 Copyright (C) 2023 Vladimir Rukavishnikov
 
-This file is part of the HungryVovka/Codewars-F-Sharp
-(https://github.com/HungryVovka/Codewars-F-Sharp)
+This file is part of the HungryVovka/Codewars-F-sharp
+(https://github.com/HungryVovka/Codewars-F-sharp)
 
 License is GNU General Public License v3.0
-(https://github.com/HungryVovka/Codewars-F-Sharp/blob/main/LICENSE)
+(https://github.com/HungryVovka/Codewars-F-sharp/blob/main/LICENSE)
 
 You should have received a copy of the GNU General Public License v3.0
 along with this code. If not, see http://www.gnu.org/licenses/
