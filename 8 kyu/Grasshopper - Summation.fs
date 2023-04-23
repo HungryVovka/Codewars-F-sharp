@@ -25,7 +25,7 @@ let summation n = n * (n + 1) / 2;;
 // (https://github.com/HungryVovka/Codewars-F-sharp)
 // 
 // License is GNU General Public License v3.0
-// (https://github.com/HungryVovka/Codewars-Fsharp/blob/main/LICENSE)
+// (https://github.com/HungryVovka/Codewars-F-sharp/blob/main/LICENSE)
 // 
 // You should have received a copy of the GNU General Public License v3.0
 // along with this code. If not, see http://www.gnu.org/licenses/
